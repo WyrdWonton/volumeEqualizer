@@ -1,3 +1,6 @@
+# THIS PLUGIN MOST LIKELY DOES NOT WORK, I HAVE NOT TESTED IT
+feel free to use the source ode for anything you want.
+
 Volume Equalizer Plugin
 Description:
 The Volume Equalizer plugin for Vencord adjusts the volume of all participants in a Discord call to a consistent decibel level, ensuring everyone is heard equally regardless of their microphone settings.
